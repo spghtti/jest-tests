@@ -1,0 +1,27 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": " Short exercise in testing Jest. Part of The Odin Project's Full-Stack Javascript curriculum. ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spghtti/jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spghtti/jest-tests/issues"
+  },
+  "homepage": "https://github.com/spghtti/jest-tests#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "jest": "^27.4.4"
+  }
+}
